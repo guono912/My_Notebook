@@ -14,3 +14,9 @@ print('hellow\nworld')
 hellow
 world
 '''
+#实现上面的还可以
+print('''hellow
+         world''')
+#并且可以把函数直接放到print中（Pascal没试过）
+print('1+1=',1+1)
+#然后是疯狂类比read/readln的input
