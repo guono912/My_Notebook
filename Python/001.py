@@ -1,4 +1,4 @@
-#lesson1
+#lesson1（更新于4/5）
 #标准开局，print的基本用法一例
 print('hellow world')
 
