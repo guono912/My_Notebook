@@ -1,3 +1,4 @@
+#利用scikit-learn中的SVM模块实现手写数字识别
 import matplotlib.pyplot as plt
 from sklearn import svm, datasets, metrics
 from sklearn.model_selection import train_test_split
@@ -47,4 +48,3 @@ plt.show()
 # 只是参数变成了64个像素点。。。。。
 # 不过毕竟我还只是一个只会调包调参的渣渣。
 # 具体还是以后真正掌握这个算法再说
-# 凑个50行~
